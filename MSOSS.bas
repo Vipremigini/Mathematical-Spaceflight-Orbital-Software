@@ -72,24 +72,6 @@ finalorbp = jhu * jhufan
 
 
 
-
-
-
-
 PRINT "Velocity at Perigee = "; finalvp; "m/s"
 PRINT "Velocity at Apogee  = "; finalva; "m/s"
 PRINT "Orbital period      = "; finalorbp; " seconds"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
